@@ -12,8 +12,9 @@ steps
             setting.py enables us put our configuration
             urls.py this is an entry point
             wsgi.py 
-to load in local host, ensure you are in the first_project file
-    -in terminal write "python manage.py runserver"
-stop the python server by pressing ctrl + c
+                to load in local host, ensure you are in the first_project file
+                    -in terminal write "python manage.py runserver"
+                    stop the python server by pressing ctrl + c
 
-time stopped .1:03:36
+        -this opens the app terminal "python Djan/manage.py startapp Djanapp"
+
