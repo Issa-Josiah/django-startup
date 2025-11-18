@@ -14,3 +14,6 @@ steps
             wsgi.py 
 to load in local host, ensure you are in the first_project file
     -in terminal write "python manage.py runserver"
+stop the python server by pressing ctrl + c
+
+time stopped .1:03:36
