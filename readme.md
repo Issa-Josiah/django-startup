@@ -12,5 +12,5 @@ steps
             setting.py enables us put our configuration
             urls.py this is an entry point
             wsgi.py 
-
-    -
+to load in local host, ensure you are in the first_project file
+    -in terminal write "python manage.py runserver"
